@@ -1,0 +1,30 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+
+# macOS
+.DS_Store
+
+# Archives
+*.xcarchive
+
+# App distribution
+*.ipa
+*.dSYM.zip
+
+# Local environment
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.swp
+
+# Claude
+Reference-For-Claude/
